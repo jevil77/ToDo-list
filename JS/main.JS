@@ -30,7 +30,7 @@ function addTask(){
     
 count++
 
-console.log(addTask);
+//console.log(addTask);
 
 document.querySelector('#count').innerHTML = count;
 
